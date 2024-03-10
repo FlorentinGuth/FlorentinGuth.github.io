@@ -7,10 +7,10 @@ cms_exclude: true
 #   2 = Compact
 #   3 = Card
 #   4 = Citation
-view: 4
+view: 3
 
 # Optional header image (relative to `static/media/` folder).
 banner:
-  caption: ''
+  caption: 'See my [google scholar](https://scholar.google.com/citations?user=opC_fpQAAAAJ) for a complete list'
   image: ''
 ---
