@@ -48,9 +48,9 @@ sections:
       title: News
       subtitle: ''
       text: |
-        - **02/23**: I'm an invited speaker at [Youth in High Dimensions](https://indico.ictp.it/event/10478) at ICTP in Trieste!
-        - **01/23**: Our [paper](https://openreview.net/forum?id=ANvmVS2Yr0) _Generalization in diffusion models arises from geometry-adaptive harmonic representation_ got an oral (top 1.2%) at [ICLR 2024](https://iclr.cc/)!
-        - **08/23**: I successfully defended my PhD! [Manuscrit](uploads/thesis) and [slides](uploads/defense.pdf).
+        - **02/24**: I'm an invited speaker at [Youth in High Dimensions](https://indico.ictp.it/event/10478) at ICTP in Trieste!
+        - **01/24**: Our [paper](https://openreview.net/forum?id=ANvmVS2Yr0) on generalization and memorization in diffusion models got an oral (top 1.2%) at [ICLR 2024](https://iclr.cc/)!
+        - **08/23**: I successfully defended my PhD! [Thesis](uploads/thesis.pdf) and [slides](uploads/defense.pdf).
         - **08/23**: We gave a [keynote] and tutorial at [CCN 2023](https://2023.ccneuro.org/) together with [Mick Bonner and his lab](https://bonnerlab.org/).
     design:
       columns: '1'
@@ -204,7 +204,7 @@ sections:
   - block: collection
     id: featured
     content:
-      title: 'Featured Publications <h3> _(see [Google Scholar](https://scholar.google.com/citations?user=opC_fpQAAAAJ) for a complete list)_ </h3>'
+      title: 'Featured Publications <h4> _(see [Google Scholar](https://scholar.google.com/citations?user=opC_fpQAAAAJ) for a complete list)_ </h4>'
       filters:
         folders:
           - publication
