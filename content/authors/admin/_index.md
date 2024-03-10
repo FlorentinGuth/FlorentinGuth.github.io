@@ -25,10 +25,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: |
-  I'm a Faculty Fellow in the [Center for Data Science](https://cds.nyu.edu/) at NYU and a Research Fellow in the [Center for Computational Neuroscience](https://www.simonsfoundation.org/flatiron/center-for-computational-neuroscience/) at the Flatiron Institute. I'm interested in making a science of deep learning, e.g., understand how it escapes the curse of dimensionality, and particularly in the context of image generative models.
-
-  Between 2019 and 2023, I was completing my PhD at École Normale Supérieure in Paris under the supervision of Stéphane Mallat, entitled _Towards a Mathematical Understanding of Deep Convolutional Neural Networks_. You can find my manuscript [here](uploads/thesis) and the defense slides [here](uploads/defense.pdf).
+bio: "I'm a Faculty Fellow in the [Center for Data Science](https://cds.nyu.edu/) at NYU and a Research Fellow in the [Center for Computational Neuroscience](https://www.simonsfoundation.org/flatiron/center-for-computational-neuroscience/) at the Flatiron Institute. I'm interested in making a science of deep learning, e.g., understand how it escapes the curse of dimensionality, and particularly in the context of image generative models.\n\nBetween 2019 and 2023, I was completing my PhD at École Normale Supérieure in Paris under the supervision of Stéphane Mallat, entitled _Towards a Mathematical Understanding of Deep Convolutional Neural Networks_. You can find my manuscript [here](uploads/thesis) and the defense slides [here](uploads/defense.pdf)."
 
 # Interests to show in About widget
 interests:
