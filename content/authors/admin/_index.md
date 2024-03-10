@@ -35,7 +35,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Applied Maths and CS
+    - course: Ph.D. in Applied Maths and CS
       institution: École Normale Supérieure
       year: 2023
     - course: M.Sc. in Maths, CV and ML (MVA)

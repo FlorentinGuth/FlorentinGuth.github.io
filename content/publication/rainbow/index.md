@@ -33,7 +33,7 @@ publication_short: ArXiv
 abstract: What do neural networks learn? A major difficulty is that every training run results in a _different set of weights_ but nevertheless leads to _the same performance_. We introduce a model of the probability distribution of these weights. Layers are _not_ independent, but their dependencies can be captured by an alignment procedure. We use this model to show that **networks learn the same features no matter their initialization**. We also compress trained weights to a reduced set of summary statistics, from which a family of networks with equivalent performance can be reconstructed.
 
 # Summary. An optional shortened abstract.
-summary: We show how deep network weights can be compressed to a reduced set of summary statistics ("_the learned features_") that _(i)_ **all networks share no matter their initialization** and _(ii)_ that allow **regenerat weights with an equivalent performance**.
+summary: We show how deep network weights can be compressed to a reduced set of _summary statistics_ (the learned "features") that _(i)_ **all networks share no matter their initialization** and _(ii)_ that allow **regenerat weights with an equivalent performance**.
 
 tags: []
 
