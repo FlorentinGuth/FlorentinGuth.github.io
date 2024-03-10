@@ -41,6 +41,9 @@ education:
     - course: M.Sc. in Maths, CV and ML (MVA)
       institution: École Normale Supérieure Paris-Saclay
       year: 2019
+    - course: M.Sc. and B.Sc. in Computer Science
+      institution: École Normale Supérieure
+      year: 2019
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -90,7 +93,7 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:florentin.guth@nyu.edu'
-  - icon: x
+  - icon: twitter
     icon_pack: fab
     link: https://twitter.com/FlorentinGuth
     label: Follow me on Twitter/X
@@ -108,9 +111,9 @@ social:
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
-  - icon: cv
-    icon_pack: ai
-    link: uploads/resume.pdf
+  # - icon: cv
+  #   icon_pack: ai
+  #   link: uploads/resume.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true

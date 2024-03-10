@@ -192,7 +192,7 @@ sections:
   - block: collection
     id: featured
     content:
-      title: Featured Publications
+      title: 'Featured Publications _(see [Google Scholar](https://scholar.google.com/citations?user=opC_fpQAAAAJ) for a complete list)_'
       filters:
         folders:
           - publication

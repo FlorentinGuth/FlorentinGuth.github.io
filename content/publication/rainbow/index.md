@@ -24,7 +24,7 @@ publishDate: '2017-01-01T00:00:00Z'
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ['paper-conference']
+publication_types: ['preprint']
 
 # Publication name and optional abbreviated publication name.
 publication: ArXiv
@@ -45,7 +45,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://arxiv.org/abs/2305.18512'
+url_pdf: 'https://arxiv.org/pdf/2305.18512.pdf'
 # url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 # url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
 url_poster: 'poster.pdf'
@@ -58,7 +58,8 @@ url_video: 'https://www.youtube.com/live/BZ34XH4ffEc?si=i3dy6irauWE__O2b&t=23897
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
   # caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
-  focal_point: ''
+  placement: 3
+  focal_point: 'TopLeft'
   preview_only: false
 
 # Associated Projects (optional).
