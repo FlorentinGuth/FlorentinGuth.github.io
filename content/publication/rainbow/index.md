@@ -58,7 +58,7 @@ url_video: 'https://www.youtube.com/live/BZ34XH4ffEc?si=i3dy6irauWE__O2b&t=23897
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
   # caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
-  placement: 3
+  placement: 1
   focal_point: 'TopLeft'
   preview_only: false
 

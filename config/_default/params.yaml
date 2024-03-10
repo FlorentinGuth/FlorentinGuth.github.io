@@ -7,7 +7,7 @@
 
 appearance:
   mode: dark
-  color: teal
+  color: custom
   theme_day: minimal
   theme_night: minimal
   font: minimal
