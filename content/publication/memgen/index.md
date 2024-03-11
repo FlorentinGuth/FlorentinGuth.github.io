@@ -1,5 +1,5 @@
 ---
-title: 'Generalization in diffusion models arises from geometry-adaptive harmonic representation'
+title: 'Generalization in diffusion models arises from geometry-adaptive harmonic representations'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
