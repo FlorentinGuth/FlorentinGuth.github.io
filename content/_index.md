@@ -48,10 +48,11 @@ sections:
       title: News
       subtitle: ''
       text: |
-        - **02/24**: I'm an invited speaker at [Youth in High Dimensions](https://indico.ictp.it/event/10478) at ICTP in Trieste!
+        - **04/24**: I'm an invited speaker at the [Mathematics and Machine Learning](https://www.imsa.miami.edu/events/2024-summer-emphasis/math-machine/index.html) conference at ISMA in Miami!
+        - **02/24**: I'm an invited speaker at the [Youth in High Dimensions](https://indico.ictp.it/event/10478) conference at ICTP in Trieste!
         - **01/24**: Our [paper](https://openreview.net/forum?id=ANvmVS2Yr0) on generalization and memorization in diffusion models got an oral (top 1.2%) at [ICLR 2024](https://iclr.cc/)!
         - **08/23**: I successfully defended my PhD! [Thesis](uploads/thesis.pdf) and [slides](uploads/defense.pdf).
-        - **08/23**: We gave a [keynote]((https://www.youtube.com/live/BZ34XH4ffEc?si=i3dy6irauWE__O2b&t=23897) and tutorial at [CCN 2023](https://2023.ccneuro.org/) together with [Mick Bonner and his lab](https://bonnerlab.org/).
+        - **08/23**: We gave a [keynote](https://www.youtube.com/live/BZ34XH4ffEc?si=i3dy6irauWE__O2b&t=23897) and [tutorial](https://bonnerlab.github.io/ccn-tutorial/) at [CCN 2023](https://2023.ccneuro.org/) together with [Mick Bonner and his lab](https://bonnerlab.org/).
     design:
       columns: '1'
   # - block: skills
@@ -266,7 +267,7 @@ sections:
   #     # Choose a map provider in `params.yaml` to show a map from these coordinates
   #     coordinates:
   #       latitude: '37.4275'
-  #       longitude: '-122.1697'  
+  #       longitude: '-122.1697'
   #     contact_links:
   #       - icon: twitter
   #         icon_pack: fab

@@ -1,5 +1,5 @@
 ---
-title: 'A Rainbow in Deep Network Black Boxes'
+title: 'A rainbow in deep network black boxes'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -41,9 +41,9 @@ tags: []
 featured: true
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
+links:
+- name: Tutorial
+  url: https://bonnerlab.github.io/ccn-tutorial/pages/analyzing_neural_networks.html
 
 url_pdf: 'https://arxiv.org/pdf/2305.18512.pdf'
 # url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
@@ -88,4 +88,4 @@ Create your slides in Markdown - click the _Slides_ button to check out the exam
 
 Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). -->
 
-Check out the [video](https://www.youtube.com/live/BZ34XH4ffEc?si=i3dy6irauWE__O2b&t=23897) of my talk at DeepMath 2023, or our [keynote](https://www.youtube.com/watch?v=6cxX6M5VFYE&t=632s) <!-- and [tutorial] --> at the CCN 2023 conference with Mick Bonner and his lab!
+Check out the [video](https://www.youtube.com/live/BZ34XH4ffEc?si=i3dy6irauWE__O2b&t=23897) of my talk at DeepMath 2023, or our [keynote](https://www.youtube.com/watch?v=6cxX6M5VFYE&t=632s) and [tutorial](https://bonnerlab.github.io/ccn-tutorial/pages/analyzing_neural_networks.html) at the CCN 2023 conference with Mick Bonner and his lab!
