@@ -44,6 +44,8 @@ featured: true
 links:
 - name: Tutorial
   url: https://bonnerlab.github.io/ccn-tutorial/pages/analyzing_neural_networks.html
+- name: Summary
+  url: https://openreview.net/pdf?id=ofEBFOrITI
 
 url_pdf: 'https://arxiv.org/pdf/2305.18512.pdf'
 # url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
@@ -88,4 +90,9 @@ Create your slides in Markdown - click the _Slides_ button to check out the exam
 
 Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). -->
 
-Check out the [video](https://www.youtube.com/live/BZ34XH4ffEc?si=i3dy6irauWE__O2b&t=23897) of my talk at DeepMath 2023, or our [keynote](https://www.youtube.com/watch?v=6cxX6M5VFYE&t=632s) and [tutorial](https://bonnerlab.github.io/ccn-tutorial/pages/analyzing_neural_networks.html) at the CCN 2023 conference with Mick Bonner and his lab!
+Resources:
+- [Original paper](https://arxiv.org/pdf/2305.18512.pdf) (with the mathematical model)
+- [Video](https://www.youtube.com/live/BZ34XH4ffEc?si=i3dy6irauWE__O2b&t=23897) of my talk at DeepMath 2023 (maths audience)
+- [Keynote](https://www.youtube.com/watch?v=6cxX6M5VFYE&t=632s) at the CCN 2023 conference with Mick Bonner (neuro/cogsci audience)
+- [Tutorial](https://bonnerlab.github.io/ccn-tutorial/pages/analyzing_neural_networks.html) to reproduce some of our results in a simplified setting
+- **New:** [Shorter paper](https://openreview.net/pdf?id=ofEBFOrITI) (summary of ideas and application to comparisons across training datasets)
