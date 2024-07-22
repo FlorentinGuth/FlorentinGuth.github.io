@@ -92,7 +92,9 @@ Add the publication's **full text** or **supplementary notes** here. You can use
 
 Resources:
 - [Original paper](https://arxiv.org/pdf/2305.18512.pdf) (with the mathematical model)
-- [Video](https://www.youtube.com/live/BZ34XH4ffEc?si=i3dy6irauWE__O2b&t=23897) of my talk at DeepMath 2023 (maths audience)
+- [Video](https://www.youtube.com/watch?v=3s5Q4Vk9SlE) of my talk at the AI and Pure Maths conference of IMSA (maths audience)
+- [Video](https://www.youtube.com/watch?v=tcCKRQ8hEEk) of my talk at Youth in High Dimensions 2024 (ML/physics audience)
+- [Video](https://www.youtube.com/live/BZ34XH4ffEc?si=i3dy6irauWE__O2b&t=23897) of my talk at DeepMath 2023 (ML/maths audience)
 - [Keynote](https://www.youtube.com/watch?v=6cxX6M5VFYE&t=632s) at the CCN 2023 conference with Mick Bonner (neuro/cogsci audience)
 - [Tutorial](https://bonnerlab.github.io/ccn-tutorial/pages/analyzing_neural_networks.html) to reproduce some of our results in a simplified setting
 - **New:** [Shorter paper](https://openreview.net/pdf?id=ofEBFOrITI) (summary of ideas and application to comparisons across training datasets)

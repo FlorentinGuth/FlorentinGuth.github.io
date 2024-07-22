@@ -121,6 +121,6 @@ highlight_name: true
 
 I'm a Faculty Fellow in the [Center for Data Science](https://cds.nyu.edu/) at NYU and a Research Fellow in the [Center for Computational Neuroscience](https://www.simonsfoundation.org/flatiron/center-for-computational-neuroscience/) at the Flatiron Institute. I'm interested in improving our scientific understanding of deep learning, e.g., understand how it escapes the curse of dimensionality, particularly in the context of image generative models.
 
-Between 2019 and 2023, I was completing my PhD at [École Normale Supérieure](https://www.di.ens.fr/) in Paris under the supervision of [Stéphane Mallat](https://www.di.ens.fr/~mallat/mallat.html), entitled _Towards a Mathematical Understanding of Deep Convolutional Neural Networks_. You can find my thesis [here](uploads/thesis.pdf) and the defense slides [here](uploads/defense.pdf).
+Between 2019 and 2023, I was completing my PhD at [École Normale Supérieure](https://www.di.ens.fr/) in Paris under the supervision of Pr. [Stéphane Mallat](https://www.di.ens.fr/~mallat/mallat.html), entitled _Towards a Mathematical Understanding of Deep Convolutional Neural Networks_. You can find my thesis [here](uploads/thesis.pdf) and the defense slides [here](uploads/defense.pdf).
 
 {style="text-align: justify;"}
