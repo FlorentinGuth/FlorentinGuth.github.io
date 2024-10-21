@@ -48,7 +48,7 @@ links:
   url: https://openreview.net/pdf?id=ofEBFOrITI
 
 url_pdf: 'https://arxiv.org/pdf/2305.18512.pdf'
-# url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_code: 'https://github.com/FlorentinGuth/Rainbow'
 # url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
 url_poster: 'poster.pdf'
 # url_project: ''
