@@ -24,11 +24,11 @@ publishDate: '2017-01-01T00:00:00Z'
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ['preprint']
+publication_types: ['	article-journal']
 
 # Publication name and optional abbreviated publication name.
-publication: ArXiv
-publication_short: ArXiv
+publication: Journal of Machine Learning Research
+publication_short: JMLR
 
 abstract: What do neural networks learn? A major difficulty is that every training run results in a _different set of weights_ but nevertheless leads to _the same performance_. We introduce a model of the probability distribution of these weights. Layers are _not_ independent, but their dependencies can be captured by an alignment procedure. We use this model to show that **networks learn the same features no matter their initialization**. We also compress trained weights to a reduced set of summary statistics, from which a family of networks with equivalent performance can be reconstructed.
 
@@ -91,10 +91,11 @@ Create your slides in Markdown - click the _Slides_ button to check out the exam
 Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). -->
 
 Resources:
-- [Original paper](https://arxiv.org/pdf/2305.18512.pdf) (with the mathematical model)
-- [Video](https://www.youtube.com/watch?v=3s5Q4Vk9SlE) of my talk at the AI and Pure Maths conference of IMSA (maths audience)
+- [Original paper](https://arxiv.org/pdf/2305.18512.pdf) with the mathematical model
+- **New:** [Shorter follow-up paper](https://openreview.net/pdf?id=ofEBFOrITI) with a summary of the main ideas and an application to comparisons across training datasets
+- [Code](https://github.com/FlorentinGuth/Rainbow) used to produce all of our results (aligning and comparing weights of networks, sampling new weights, etc)
+- [Tutorial](https://bonnerlab.github.io/ccn-tutorial/pages/analyzing_neural_networks.html) to reproduce some of our results in a self-contained, simplified setting
 - [Video](https://www.youtube.com/watch?v=tcCKRQ8hEEk) of my talk at Youth in High Dimensions 2024 (ML/physics audience)
+- [Video](https://www.youtube.com/watch?v=3s5Q4Vk9SlE) of my talk at the AI and Pure Maths conference of IMSA (maths audience)
 - [Video](https://www.youtube.com/live/BZ34XH4ffEc?si=i3dy6irauWE__O2b&t=23897) of my talk at DeepMath 2023 (ML/maths audience)
 - [Keynote](https://www.youtube.com/watch?v=6cxX6M5VFYE&t=632s) at the CCN 2023 conference with Mick Bonner (neuro/cogsci audience)
-- [Tutorial](https://bonnerlab.github.io/ccn-tutorial/pages/analyzing_neural_networks.html) to reproduce some of our results in a simplified setting
-- **New:** [Shorter paper](https://openreview.net/pdf?id=ofEBFOrITI) (summary of ideas and application to comparisons across training datasets)
