@@ -48,8 +48,11 @@ sections:
       title: News
       subtitle: ''
       text: |
+        - **12/24**: The Sci4DL workshop at NeurIPS24 was a success! See some pictures on [twitter](https://x.com/scifordl). Videos are available on the [NeurIPS website](https://neurips.cc/virtual/2024/workshop/84741) with a virtual registration and should be made public soon.
+        - **10/24**: New [preprint](https://arxiv.org/abs/2410.03505) on why and how to unify classification and denoising in a single network.
+        - **10/24**: The [rainbow](https://arxiv.org/pdf/2305.18512.pdf) paper was accepted for publication at JMLR! We also released [code](https://github.com/FlorentinGuth/Rainbow) (complete with a tutorial).
         - **07/24**: I am co-organizing a workshop on [scientific methods for understanding deep learning](https://scienceofdlworkshop.github.io/) at [NeurIPS 2024](https://neurips.cc/). Please consider submitting your work there!
-        - **05/24**: Our [paper](https://openreview.net/forum?id=ANvmVS2Yr0) on generalization and memorization in diffusion models got an Outstanding Paper Award at [ICLR 2024](https://iclr.cc/)!
+        - **05/24**: Our [paper](https://openreview.net/forum?id=ANvmVS2Yr0) on generalization and memorization in diffusion models got an **Outstanding Paper Award** at [ICLR 2024](https://iclr.cc/)!
         - **04/24**: I'm an invited speaker at the [Mathematics and Machine Learning](https://www.imsa.miami.edu/events/2024-summer-emphasis/math-machine/index.html) conference at ISMA in Miami!
         - **02/24**: I'm an invited speaker at the [Youth in High Dimensions](https://indico.ictp.it/event/10478) conference at ICTP in Trieste!
         - **01/24**: Our [paper](https://openreview.net/forum?id=ANvmVS2Yr0) on generalization and memorization in diffusion models got an oral (top 1.2%) at [ICLR 2024](https://iclr.cc/)!
