@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Postdoctoral Researcher in Deep Learning Theory
+role: Postdoctoral Researcher in Science of Deep Learning
 
 # Organizations/Affiliations to show in About widget
 organizations:
