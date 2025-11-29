@@ -101,7 +101,9 @@ social:
     # label: Follow me on Twitter/X
     # display:
     #   header: true
-  - icon: "custom/bluesky"
+  - icon: bluesky
+    icon_pack: fab
+    # "custom/bluesky"  # (no pack) Not working, also bluesky icon should in fab but not seen, unclear how to update font awesome to newer version (probably is 5, should be at least 6, there is a 7 now)
     link: https://bsky.app/profile/florentinguth.bsky.social
     # label: Follow me on Bluesky
     # display:
