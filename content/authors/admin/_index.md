@@ -101,8 +101,7 @@ social:
     # label: Follow me on Twitter/X
     # display:
     #   header: true
-  - icon: bluesky
-    icon_pack: fab
+  - icon: "custom/bluesky"
     link: https://bsky.app/profile/florentinguth.bsky.social
     # label: Follow me on Bluesky
     # display:
