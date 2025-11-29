@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title: ''
-date: 2024-03-09
+date: 2025-11-28
 type: landing
 
 sections:
@@ -48,7 +48,14 @@ sections:
       title: News
       subtitle: ''
       text: |
-        - **12/24**: The Sci4DL workshop at NeurIPS24 was a success! See some pictures on [twitter](https://x.com/scifordl). Videos are available on the [NeurIPS website](https://neurips.cc/virtual/2024/workshop/84741) with a virtual registration and should be made public soon.
+        - **10/25**: [Video](https://www.youtube.com/watch?v=Axe0Q0nSSsQ) of my talk in the Brown CS Theory Seminar on neural encoding scaling laws.
+        - **10/25**: New [preprint](https://arxiv.org/pdf/2510.02514) on how to *mathematically define* distance functions that adapt to the geometry of the data distribution.
+        - **09/25**: Excited to be part of the [Simons Collaboration on the Physics of Learning](https://www.physicsoflearning.org/) led by [Surya Ganguli](https://ganguli-gang.stanford.edu/surya.html) through my extended collaboration with [Brice Ménard](https://menard.pha.jhu.edu/)!
+        - **09/25**: Our paper on [learning normalized energy-based models](https://arxiv.org/pdf/2506.05310?) was accepted at NeurIPS 2025!
+        - **07/25**: [Video]((https://youtu.be/SdzqMexU1eU?si=MMOqnxSdxgdY7slv&t=1935) of my talk in the ELLISxUniReps speaker series.
+        - **05/25**: New [preprint](https://arxiv.org/pdf/2506.05310) on how to learn normalized energy-based (probability) models from data, and what it tells us about natural images (the manifold hypothesis is wrong!).
+        - **12/24**: The Sci4DL workshop at NeurIPS24 was a success! See some pictures on [X](https://x.com/scifordl). Videos are available on the [NeurIPS website](https://neurips.cc/virtual/2024/workshop/84741) with a virtual registration and should be made public soon.
+        - **11/24**: I'm an inveited speaker at  [LemanTH 2025 Workshop on ML Theory](https://memento.epfl.ch/event/lemanth-2025-lausanne-event-on-machine-learning--2/)
         - **10/24**: New [preprint](https://arxiv.org/abs/2410.03505) on why and how to unify classification and denoising in a single network.
         - **10/24**: The [rainbow](https://arxiv.org/pdf/2305.18512.pdf) paper was accepted for publication at JMLR! We also released [code](https://github.com/FlorentinGuth/Rainbow) (complete with a tutorial).
         - **07/24**: I am co-organizing a workshop on [scientific methods for understanding deep learning](https://scienceofdlworkshop.github.io/) at [NeurIPS 2024](https://neurips.cc/). Please consider submitting your work there!

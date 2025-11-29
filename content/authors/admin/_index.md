@@ -25,12 +25,14 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: I'm a Faculty Fellow in the [Center for Data Science](https://cds.nyu.edu/) at NYU and a Research Fellow in the [Center for Computational Neuroscience](https://www.simonsfoundation.org/flatiron/center-for-computational-neuroscience/) at the Flatiron Institute. I'm interested in improving our scientific understanding of deep learning, e.g., understand how it escapes the curse of dimensionality, particularly in the context of image generative models.
+bio: I'm a Faculty Fellow in the [Center for Data Science](https://cds.nyu.edu/) at NYU and a Research Fellow in the [Center for Computational Neuroscience](https://www.simonsfoundation.org/flatiron/center-for-computational-neuroscience/) at the Flatiron Institute. I'm interested in improving our scientific understanding of deep learning, e.g., explaining how it escapes the curse of dimensionality, particularly in the context of image generative models.
+
 
 # Interests to show in About widget
 interests:
   - Science of Deep Learning
   - Image Generative Models
+  - Information-Estimation Geometry
 
 # Education to show in About widget
 education:
@@ -93,10 +95,16 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:florentin.guth@nyu.edu'
-  - icon: twitter
+  - icon: x-twitter
     icon_pack: fab
     link: https://twitter.com/FlorentinGuth
-    label: Follow me on Twitter/X
+    # label: Follow me on Twitter/X
+    # display:
+    #   header: true
+  - icon: bluesky
+    icon_pack: fab
+    link: https://bsky.app/profile/florentinguth.bsky.social
+    # label: Follow me on Bluesky
     # display:
     #   header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
@@ -119,7 +127,7 @@ social:
 highlight_name: true
 ---
 
-I'm a Faculty Fellow in the [Center for Data Science](https://cds.nyu.edu/) at NYU and a Research Fellow in the [Center for Computational Neuroscience](https://www.simonsfoundation.org/flatiron/center-for-computational-neuroscience/) at the Flatiron Institute. I'm interested in improving our scientific understanding of deep learning, e.g., understand how it escapes the curse of dimensionality, particularly in the context of image generative models.
+I'm a Faculty Fellow in the [Center for Data Science](https://cds.nyu.edu/) at NYU and a Research Fellow in the [Center for Computational Neuroscience](https://www.simonsfoundation.org/flatiron/center-for-computational-neuroscience/) at the Flatiron Institute. I'm interested in improving our scientific understanding of deep learning, e.g., explaining how it escapes the curse of dimensionality, particularly in the context of image generative models.
 
 Between 2019 and 2023, I was completing my PhD at [École Normale Supérieure](https://www.di.ens.fr/) in Paris under the supervision of Pr. [Stéphane Mallat](https://www.di.ens.fr/~mallat/mallat.html), entitled _Towards a Mathematical Understanding of Deep Convolutional Neural Networks_. You can find my thesis [here](uploads/thesis.pdf) and the defense slides [here](uploads/defense.pdf).
 
