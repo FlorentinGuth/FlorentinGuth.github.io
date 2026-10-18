@@ -20,7 +20,7 @@
           {{ if not $icon }}
             {{ errorf "Custom social icon %q was not found" .icon }}
           {{ end }}
-          <img class="custom-social-icon" src="{{ $icon.RelPermalink }}" alt="">
+          <span class="custom-social-icon" aria-hidden="true">{{ $icon.Content | safeHTML }}</span>
         {{ else }}
           <i class="{{ $pack }} {{ $pack_prefix }}-{{ .icon }}"></i>
         {{ end }}
