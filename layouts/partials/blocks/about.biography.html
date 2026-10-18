@@ -42,7 +42,7 @@
         {{ end }}
       </div>
 
-      <ul class="network-icon" aria-hidden="true">
+      <ul class="network-icon" aria-hidden="true" style="visibility:hidden">
         {{ range $person.social }}
           {{ $pack := or .icon_pack "fas" }}
           {{ $pack_prefix := $pack }}
@@ -68,6 +68,17 @@
           </li>
         {{ end }}
       </ul>
+      <script>
+        (function () {
+          var networkIcon = document.querySelector('#profile .network-icon');
+          if (!networkIcon) return;
+          var showIcons = function () { networkIcon.style.visibility = 'visible'; };
+          if (document.fonts && document.fonts.ready) {
+            document.fonts.ready.then(showIcons);
+          }
+          window.setTimeout(showIcons, 3000);
+        }());
+      </script>
     </div>
   </div>
   <div class="col-12 col-lg-8">

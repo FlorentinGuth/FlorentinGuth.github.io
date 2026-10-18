@@ -1,4 +1,4 @@
-<ul class="network-icon" aria-hidden="true">
+<ul class="network-icon" aria-hidden="true" style="visibility:hidden">
   {{ range .Params.social }}
     {{ $pack := or .icon_pack "fas" }}
     {{ $pack_prefix := $pack }}
@@ -28,3 +28,17 @@
     </li>
   {{ end }}
 </ul>
+<script>
+  (function () {
+    var networkIcons = document.querySelectorAll('.network-icon[style*="visibility:hidden"]');
+    var showIcons = function () {
+      networkIcons.forEach(function (networkIcon) {
+        networkIcon.style.visibility = 'visible';
+      });
+    };
+    if (document.fonts && document.fonts.ready) {
+      document.fonts.ready.then(showIcons);
+    }
+    window.setTimeout(showIcons, 3000);
+  }());
+</script>
