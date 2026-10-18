@@ -1,0 +1,14 @@
+# Custom teal theme for the site's dark appearance.
+name = "Teal"
+
+[dark]
+  primary = "#14b8a6"
+
+  menu_primary = "#042f2e"
+  menu_text = "#ccfbf1"
+  menu_text_active = "#5eead4"
+  menu_title = "#f0fdfa"
+
+  background = "#111827"
+  home_section_odd = "#111827"
+  home_section_even = "#0f172a"

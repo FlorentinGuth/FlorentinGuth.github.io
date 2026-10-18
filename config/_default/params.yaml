@@ -6,10 +6,10 @@
 # Appearance
 
 appearance:
-  mode: dark
-  color: custom
-  theme_day: minimal
-  theme_night: minimal
+  # Hugo Blox v5 uses the presence of theme_day to select light mode.
+  # Leave it disabled so the site starts in the dark theme.
+  theme_day: false
+  theme_night: custom
   font: minimal
   font_size: L
 
