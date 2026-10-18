@@ -42,31 +42,31 @@ sections:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-  - block: markdown
-    id: news
-    content:
-      title: News
-      subtitle: ''
-      text: |
-        - **10/25**: [Video](https://www.youtube.com/watch?v=Axe0Q0nSSsQ) of my talk in the Brown CS Theory Seminar on neural encoding scaling laws.
-        - **10/25**: New [preprint](https://arxiv.org/pdf/2510.02514) on how to *mathematically define* distance functions that adapt to the geometry of the data distribution.
-        - **09/25**: Excited to be part of the [Simons Collaboration on the Physics of Learning](https://www.physicsoflearning.org/) led by [Surya Ganguli](https://ganguli-gang.stanford.edu/surya.html) through my collaboration with [Brice Ménard](https://menard.pha.jhu.edu/)!
-        - **09/25**: Our paper on [learning normalized energy-based models](https://arxiv.org/pdf/2506.05310?) was accepted at NeurIPS 2025!
-        - **07/25**: [Video](https://youtu.be/SdzqMexU1eU?si=MMOqnxSdxgdY7slv&t=1935) of my talk in the ELLISxUniReps speaker series.
-        - **05/25**: New [preprint](https://arxiv.org/pdf/2506.05310) on how to learn normalized energy-based (probability) models from data, and what it tells us about natural images (the manifold hypothesis is wrong!).
-        - **12/24**: The Sci4DL workshop at NeurIPS24 was a success! See some pictures on [X](https://x.com/scifordl). Videos are available on the [NeurIPS website](https://neurips.cc/virtual/2024/workshop/84741) with a virtual registration and should be made public soon.
-        - **11/24**: I'm an invited speaker at  [LemanTH 2025 Workshop on ML Theory](https://memento.epfl.ch/event/lemanth-2025-lausanne-event-on-machine-learning--2/)!
-        - **10/24**: New [preprint](https://arxiv.org/abs/2410.03505) on why and how to unify classification and denoising in a single network.
-        - **10/24**: The [rainbow](https://arxiv.org/pdf/2305.18512.pdf) paper was accepted for publication at JMLR! We also released [code](https://github.com/FlorentinGuth/Rainbow) (complete with a tutorial).
-        - **07/24**: I am co-organizing a workshop on [scientific methods for understanding deep learning](https://scienceofdlworkshop.github.io/) at [NeurIPS 2024](https://neurips.cc/). Please consider submitting your work there!
-        - **05/24**: Our [paper](https://openreview.net/forum?id=ANvmVS2Yr0) on generalization and memorization in diffusion models got an **Outstanding Paper Award** at [ICLR 2024](https://iclr.cc/)!
-        - **04/24**: I'm an invited speaker at the [Mathematics and Machine Learning](https://www.imsa.miami.edu/events/2024-summer-emphasis/math-machine/index.html) conference at ISMA in Miami!
-        - **02/24**: I'm an invited speaker at the [Youth in High Dimensions](https://indico.ictp.it/event/10478) conference at ICTP in Trieste!
-        - **01/24**: Our [paper](https://openreview.net/forum?id=ANvmVS2Yr0) on generalization and memorization in diffusion models got an oral (top 1.2%) at [ICLR 2024](https://iclr.cc/)!
-        - **08/23**: I successfully defended my PhD! [Thesis](uploads/thesis.pdf) and [slides](uploads/defense.pdf).
-        - **08/23**: We gave a [keynote](https://www.youtube.com/live/BZ34XH4ffEc?si=i3dy6irauWE__O2b&t=23897) and [tutorial](https://bonnerlab.github.io/ccn-tutorial/) at [CCN 2023](https://2023.ccneuro.org/) together with [Mick Bonner and his lab](https://bonnerlab.org/).
-    design:
-      columns: '1'
+#   - block: markdown
+#     id: news
+#     content:
+#       title: News
+#       subtitle: ''
+#       text: |
+#         - **10/25**: [Video](https://www.youtube.com/watch?v=Axe0Q0nSSsQ) of my talk in the Brown CS Theory Seminar on neural encoding scaling laws.
+#         - **10/25**: New [preprint](https://arxiv.org/pdf/2510.02514) on how to *mathematically define* distance functions that adapt to the geometry of the data distribution.
+#         - **09/25**: Excited to be part of the [Simons Collaboration on the Physics of Learning](https://www.physicsoflearning.org/) led by [Surya Ganguli](https://ganguli-gang.stanford.edu/surya.html) through my collaboration with [Brice Ménard](https://menard.pha.jhu.edu/)!
+#         - **09/25**: Our paper on [learning normalized energy-based models](https://arxiv.org/pdf/2506.05310?) was accepted at NeurIPS 2025!
+#         - **07/25**: [Video](https://youtu.be/SdzqMexU1eU?si=MMOqnxSdxgdY7slv&t=1935) of my talk in the ELLISxUniReps speaker series.
+#         - **05/25**: New [preprint](https://arxiv.org/pdf/2506.05310) on how to learn normalized energy-based (probability) models from data, and what it tells us about natural images (the manifold hypothesis is wrong!).
+#         - **12/24**: The Sci4DL workshop at NeurIPS24 was a success! See some pictures on [X](https://x.com/scifordl). Videos are available on the [NeurIPS website](https://neurips.cc/virtual/2024/workshop/84741) with a virtual registration and should be made public soon.
+#         - **11/24**: I'm an invited speaker at  [LemanTH 2025 Workshop on ML Theory](https://memento.epfl.ch/event/lemanth-2025-lausanne-event-on-machine-learning--2/)!
+#         - **10/24**: New [preprint](https://arxiv.org/abs/2410.03505) on why and how to unify classification and denoising in a single network.
+#         - **10/24**: The [rainbow](https://arxiv.org/pdf/2305.18512.pdf) paper was accepted for publication at JMLR! We also released [code](https://github.com/FlorentinGuth/Rainbow) (complete with a tutorial).
+#         - **07/24**: I am co-organizing a workshop on [scientific methods for understanding deep learning](https://scienceofdlworkshop.github.io/) at [NeurIPS 2024](https://neurips.cc/). Please consider submitting your work there!
+#         - **05/24**: Our [paper](https://openreview.net/forum?id=ANvmVS2Yr0) on generalization and memorization in diffusion models got an **Outstanding Paper Award** at [ICLR 2024](https://iclr.cc/)!
+#         - **04/24**: I'm an invited speaker at the [Mathematics and Machine Learning](https://www.imsa.miami.edu/events/2024-summer-emphasis/math-machine/index.html) conference at ISMA in Miami!
+#         - **02/24**: I'm an invited speaker at the [Youth in High Dimensions](https://indico.ictp.it/event/10478) conference at ICTP in Trieste!
+#         - **01/24**: Our [paper](https://openreview.net/forum?id=ANvmVS2Yr0) on generalization and memorization in diffusion models got an oral (top 1.2%) at [ICLR 2024](https://iclr.cc/)!
+#         - **08/23**: I successfully defended my PhD! [Thesis](uploads/thesis.pdf) and [slides](uploads/defense.pdf).
+#         - **08/23**: We gave a [keynote](https://www.youtube.com/live/BZ34XH4ffEc?si=i3dy6irauWE__O2b&t=23897) and [tutorial](https://bonnerlab.github.io/ccn-tutorial/) at [CCN 2023](https://2023.ccneuro.org/) together with [Mick Bonner and his lab](https://bonnerlab.org/).
+#     design:
+#       columns: '1'
   # - block: skills
   #   content:
   #     title: Skills
@@ -214,6 +214,15 @@ sections:
   #       {{< gallery album="demo" >}}
   #   design:
   #     columns: '1'
+  - block: markdown
+    id: interests
+    content:
+      title: Research Interests
+      subtitle: ''
+      text: |
+        My main research interest is to uncover the inductive biases of deep learning: what are the assumptions about the structure of natural data implicitly encoded in the architecture and optimizer that enables it to generalize? Once made explicit, these inductive biases will turn into fundamental principles of probabilistic inference and learning with natural data. This problem can be tackled both theoretically, by proposing mathematical models of data or studying toy models of feature learning, and empirically, by measuring data statistics or key properties of the learned weights and representations. I expand on applying the scientific method to understanding deep learning in this [essay](https://learningmechanics.pub/perspectives/science-is-a-long-game/). See also the other posts on the [Learning Mechanics website](https://learningmechanics.pub/) as well as our perspective paper ["There Will Be a Scientific Theory of Deep Learning"](https://arxiv.org/abs/2604.21691). Specific research themes include  probabilistic models of images, generalization in diffusion models, and empirical studies of learned weights, see more details below.
+    design:
+      columns: '1'
   - block: collection
     id: featured
     content:

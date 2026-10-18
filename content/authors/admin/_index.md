@@ -17,35 +17,42 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Postdoctoral Researcher in Science of Deep Learning
+role: Research Fellow
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: New York University and Flatiron Institute
+  - name: Flatiron Institute
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: I'm a Faculty Fellow in the [Center for Data Science](https://cds.nyu.edu/) at NYU and a Research Fellow in the [Center for Computational Neuroscience](https://www.simonsfoundation.org/flatiron/center-for-computational-neuroscience/) at the Flatiron Institute. I'm interested in improving our scientific understanding of deep learning, e.g., explaining how it escapes the curse of dimensionality, particularly in the context of image generative models.
+# Note: this is useless to fill
+bio: I'm a Research Fellow in the [Center for Computational Neuroscience](https://www.simonsfoundation.org/flatiron/center-for-computational-neuroscience/) at the Flatiron Institute. I'm interested in improving our scientific understanding of deep learning, e.g., explaining how it escapes the curse of dimensionality, particularly in the context of image generative models.
 
 
 # Interests to show in About widget
 interests:
   - Science of Deep Learning
-  - Image Generative Models
-  - Information-Estimation Geometry
+#   - Generalization and Inductive Biases
+#   - Image Generative Models
+  - Probabilistic Models of Data
+  - Information Theory and Geometry
+  - Graphical Models
+  - Signal Processing
+  - High-Dimensional Statistics
+
 
 # Education to show in About widget
-education:
-  courses:
-    - course: Ph.D. in Applied Maths and CS
-      institution: École Normale Supérieure
-      year: 2023
-    - course: M.Sc. in Maths, CV and ML (MVA)
-      institution: École Normale Supérieure Paris-Saclay
-      year: 2019
-    - course: M.Sc. and B.Sc. in Computer Science
-      institution: École Normale Supérieure
-      year: 2019
+# education:
+#   courses:
+#     - course: Ph.D. in Applied Maths and CS
+#       institution: École Normale Supérieure
+#       year: 2023
+#     - course: M.Sc. in Maths, CV and ML (MVA)
+#       institution: École Normale Supérieure Paris-Saclay
+#       year: 2019
+#     - course: M.Sc. in Computer Science
+#       institution: École Normale Supérieure
+#       year: 2019
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -94,7 +101,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:florentin.guth@nyu.edu'
+    link: 'mailto:fguth@flatironinstitute.org'
   - icon: x-twitter
     icon_pack: fab
     link: https://twitter.com/FlorentinGuth
@@ -102,8 +109,7 @@ social:
     # display:
     #   header: true
   - icon: bluesky
-    icon_pack: fab
-    # "custom/bluesky"  # (no pack) Not working, also bluesky icon should in fab but not seen, unclear how to update font awesome to newer version (probably is 5, should be at least 6, there is a 7 now)
+    icon_pack: custom
     link: https://bsky.app/profile/florentinguth.bsky.social
     # label: Follow me on Bluesky
     # display:
@@ -128,8 +134,6 @@ social:
 highlight_name: true
 ---
 
-I'm a Faculty Fellow in the [Center for Data Science](https://cds.nyu.edu/) at NYU and a Research Fellow in the [Center for Computational Neuroscience](https://www.simonsfoundation.org/flatiron/center-for-computational-neuroscience/) at the Flatiron Institute. I'm interested in improving our scientific understanding of deep learning, e.g., explaining how it escapes the curse of dimensionality, particularly in the context of image generative models.
-
-Between 2019 and 2023, I was completing my PhD at [École Normale Supérieure](https://www.di.ens.fr/) in Paris under the supervision of Pr. [Stéphane Mallat](https://www.di.ens.fr/~mallat/mallat.html), entitled _Towards a Mathematical Understanding of Deep Convolutional Neural Networks_. You can find my thesis [here](uploads/thesis.pdf) and the defense slides [here](uploads/defense.pdf).
+I'm an incoming Assistant Professor at [MIT EECS](https://www.eecs.mit.edu/) and a Research Fellow in the [Center for Computational Neuroscience](https://www.simonsfoundation.org/flatiron/center-for-computational-neuroscience/) at the Flatiron Institute. I am part of the [Learning Mechanics](https://learningmechanics.pub/) collaboration as well as the [Simons Collaboration on the Physics of Learning and Neural Computation](https://www.physicsoflearning.org/). I am an organizer of the [Sci4DL](https://scienceofdlworkshop.github.io/) workshop series. During 2023-2026 I was also a Faculty Fellow in the [Center for Data Science](https://cds.nyu.edu/) at NYU. I completed my PhD at [École Normale Supérieure](https://www.di.ens.fr/) in Paris ([dissertation](uploads/thesis.pdf) and [defense slides](uploads/defense.pdf).
 
 {style="text-align: justify;"}

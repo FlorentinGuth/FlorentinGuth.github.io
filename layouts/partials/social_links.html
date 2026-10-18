@@ -1,0 +1,30 @@
+<ul class="network-icon" aria-hidden="true">
+  {{ range .Params.social }}
+    {{ $pack := or .icon_pack "fas" }}
+    {{ $pack_prefix := $pack }}
+    {{ if in (slice "fab" "fas" "far" "fal") $pack }}
+      {{ $pack_prefix = "fa" }}
+    {{ end }}
+    {{ $link := .link }}
+    {{ $scheme := (urls.Parse $link).Scheme }}
+    {{ $target := "" }}
+    {{ if not $scheme }}
+      {{ $link = .link | relLangURL }}
+    {{ else if in (slice "http" "https") $scheme }}
+      {{ $target = "target=\"_blank\" rel=\"noopener\"" }}
+    {{ end }}
+    <li>
+      <a href="{{ $link | safeURL }}" {{ $target | safeHTMLAttr }}>
+        {{ if eq $pack "custom" }}
+          {{ $icon := resources.Get (printf "media/icons/custom/%s.svg" .icon) }}
+          {{ if not $icon }}
+            {{ errorf "Custom social icon %q was not found" .icon }}
+          {{ end }}
+          <img class="custom-social-icon" src="{{ $icon.RelPermalink }}" alt="">
+        {{ else }}
+          <i class="{{ $pack }} {{ $pack_prefix }}-{{ .icon }}"></i>
+        {{ end }}
+      </a>
+    </li>
+  {{ end }}
+</ul>

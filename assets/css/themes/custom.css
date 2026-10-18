@@ -12,3 +12,9 @@
     --color-primary-900: 19 78 74;
     --color-primary-950: 4 47 46;
   }
+
+.custom-social-icon {
+    width: 1em;
+    height: 1em;
+    vertical-align: -0.125em;
+  }
