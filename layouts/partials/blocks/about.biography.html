@@ -60,7 +60,7 @@
               {{ if eq $pack "custom" }}
                 {{ $icon := resources.Get (printf "media/icons/custom/%s.svg" .icon) }}
                 {{ if not $icon }}{{ errorf "Custom social icon %q was not found" .icon }}{{ end }}
-                <span class="custom-social-icon big-icon" aria-hidden="true" style="display:inline-flex;width:1.5rem;height:1.5rem;align-items:center;justify-content:center;vertical-align:middle">{{ $icon.Content | safeHTML }}</span>
+                <span class="custom-social-icon big-icon" aria-hidden="true" style="display:inline-flex;width:2rem;height:2rem;align-items:center;justify-content:center;vertical-align:middle">{{ $icon.Content | safeHTML }}</span>
               {{ else }}
                 <i class="{{ $pack }} {{ $pack_prefix }}-{{ .icon }} big-icon"></i>
               {{ end }}
