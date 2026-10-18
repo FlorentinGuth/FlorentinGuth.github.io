@@ -29,16 +29,7 @@ organizations:
 bio: I'm a Research Fellow in the [Center for Computational Neuroscience](https://www.simonsfoundation.org/flatiron/center-for-computational-neuroscience/) at the Flatiron Institute. I'm interested in improving our scientific understanding of deep learning, e.g., explaining how it escapes the curse of dimensionality, particularly in the context of image generative models.
 
 
-# Interests to show in About widget
-interests:
-  - Science of Deep Learning
-#   - Generalization and Inductive Biases
-#   - Image Generative Models
-  - Probabilistic Models of Data
-  - Information Theory and Geometry
-  - Graphical Models
-  - Signal Processing
-  - High-Dimensional Statistics
+# Research areas are displayed at the top of the biography below.
 
 
 # Education to show in About widget
@@ -133,6 +124,24 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
+
+<div class="section-subheading">Research Areas</div>
+<div class="row">
+<div class="col-md-6">
+<ul class="ul-interests fa-ul mb-0">
+<li><i class="fa-li fa-solid fa-book-open"></i>Science of Deep Learning</li>
+<li><i class="fa-li fa-solid fa-book-open"></i>Probabilistic Models of Data</li>
+<li><i class="fa-li fa-solid fa-book-open"></i>Information Theory and Geometry</li>
+</ul>
+</div>
+<div class="col-md-6">
+<ul class="ul-interests fa-ul mb-0">
+<li><i class="fa-li fa-solid fa-book-open"></i>Graphical Models</li>
+<li><i class="fa-li fa-solid fa-book-open"></i>Signal Processing</li>
+<li><i class="fa-li fa-solid fa-book-open"></i>High-Dimensional Statistics</li>
+</ul>
+</div>
+</div>
 
 I'm an incoming Assistant Professor at [MIT EECS](https://www.eecs.mit.edu/) and a Research Fellow in the [Center for Computational Neuroscience](https://www.simonsfoundation.org/flatiron/center-for-computational-neuroscience/) at the Flatiron Institute. I am part of the [Learning Mechanics](https://learningmechanics.pub/) collaboration as well as the [Simons Collaboration on the Physics of Learning and Neural Computation](https://www.physicsoflearning.org/). I am an organizer of the [Sci4DL](https://scienceofdlworkshop.github.io/) workshop series. During 2023-2026 I was also a Faculty Fellow in the [Center for Data Science](https://cds.nyu.edu/) at NYU. I completed my PhD at [École Normale Supérieure](https://www.di.ens.fr/) in Paris ([dissertation](uploads/thesis.pdf) and [defense slides](uploads/defense.pdf)).
 
