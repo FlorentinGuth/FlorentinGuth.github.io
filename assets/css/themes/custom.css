@@ -18,3 +18,9 @@
     height: 1em;
     vertical-align: -0.125em;
   }
+
+@media (min-width: 768px) {
+  ul.ul-interests {
+    columns: 2;
+  }
+}

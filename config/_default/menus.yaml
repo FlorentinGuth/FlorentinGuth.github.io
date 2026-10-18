@@ -20,6 +20,9 @@ main:
   #   url: '#talks'
   #   weight: 40
   - name: Research
+    url: '#interests'
+    weight: 45
+  - name: Publications
     url: '#featured'
     weight: 50
   - name: Google Scholar
